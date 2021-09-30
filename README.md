@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbloom0
-- 👀 I’m interested in ... Chemical simulation optimization (Classical and Quantum Molecular Dynamics) and Machine Learning 
+- 👀 I’m interested in ... Computational Chemistry
 - 🌱 I’m currently learning ... Haskell, Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... mbloom@pugetsound.edu
