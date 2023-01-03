@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbloom0
-- 👀 I’m interested in ... Computational Chemistry
+- 👀 I’m interested in ... Data Science, Computational Chemistry, and Vertical Farming
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... mbloom@pugetsound.edu
