@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbloom0
 - 👀 I’m interested in ... Data Science, Computational Chemistry, and Vertical Farming
-- 🌱 I’m currently learning ... Python: Tensorflow, Django; SQL:MySQL and PySQL; and JS: React
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... Any ideas!
 - 📫 How to reach me ... mbloom@pugetsound.edu
 
